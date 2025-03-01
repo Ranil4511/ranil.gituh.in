@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Karnatakapu Anil Kumar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Curriculum Vitae</h1>
+        <h2>Karnatakapu Anil Kumar</h2>
+        <p class="contact-info">
+            H No: 5-7-30, Plot No 53, B N Reddy Nagar, LB Nagar, Hyderabad<br>
+            Phone: 9703304511 | Email: anil.ssrcp@gmail.com
+        </p>
+        
+        <div class="section">
+            <h3>Objective</h3>
+            <p>Sincerity, dedication & loyalty towards my work and organization are my positive traits. I can exhibit my knowledge and skills to the best of my abilities. Being optimistic in my thinking, I would always keep the organization’s interest my top priority.</p>
+        </div>
+        
+        <div class="section">
+            <h3>Personal Skills</h3>
+            <ul>
+                <li>Knowledge of contemporary hospital pharmacy, distributive services, education.</li>
+                <li>Ability to interact constructively with a culturally diverse work environment.</li>
+                <li>Excellent communication skills.</li>
+                <li>Ability to deal with people diplomatically.</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h3>Educational Qualifications</h3>
+            <ul>
+                <li>PhD - SJJT University, Rajasthan (Thesis Submitted - June 2023)</li>
+                <li>M. Pharm (Pharmaceutics) - Swamivivekananda College of Pharmaceutical Sciences, JNTU-H (2011-2013) - 80.06%</li>
+                <li>B. Pharm - Smt Sarojini Rammulamma College Of Pharmacy, Mahaboob Nagar (2004-07) - 62%</li>
+                <li>D. Pharm - KDR Govt Polytechnic, Wanaparthy, Mahaboob Nagar (2002-04) - 63%</li>
+                <li>Higher Secondary - Govt Jr College, Hanamkonda, Warangal (2000-02) - 65.5%</li>
+                <li>S.S.C (X) - ZPSS Mamnoor Camp, Warangal (1999-2000) - 72%</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h3>Work Experience</h3>
+            <ul>
+                <li>Assistant Professor, Netaji Institute of Pharmaceutical Sciences (2013-2019)</li>
+                <li>Assistant Professor, Samskruti College of Pharmacy (2019-2020)</li>
+                <li>Lecturer, GBN College of Pharmacy (2 years)</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h3>Technical & Personal Skills</h3>
+            <ul>
+                <li>Handling exam branch work</li>
+                <li>Experience in PCI, AICTE, and JNTUH work</li>
+                <li>Good communication skills</li>
+                <li>Proficiency in MS Office, Windows, and Linux</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h3>Career Highlights</h3>
+            <ul>
+                <li>3 months training at ESI Hospital Warangal as a trainee pharmacist</li>
+                <li>GPAT Qualified in 2011 and 2013</li>
+                <li>Presented a poster on Lansoprazole Enteric Coated ODT at 67th IPC</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h3>Personal Profile</h3>
+            <p>Name: Karnatakapu Anil Kumar</p>
+            <p>Father's Name: Suraiah</p>
+            <p>Address: H.No: 3-74, Mamnoor, Hanamkonda, Warangal</p>
+            <p>Date of Birth: 12-08-1984</p>
+            <p>Nationality: Indian</p>
+            <p>Languages Known: English, Hindi, Telugu</p>
+        </div>
+        
+        <p><strong>Date:</strong> __________</p>
+        <p><strong>Place:</strong> __________</p>
+        <p><strong>Signature:</strong> Karnatakapu Anil Kumar</p>
+    </div>
+</body>
+</html>
