@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anil Kumar - CV</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>KARNATAKAPU ANIL KUMAR</h1>
+            <p>H No: 5-7-30, Plot no 53, B N Reddy Nagar, LB Nagar, Hyderabad</p>
+            <p>Phone: 9703304511 | Email: <a href="mailto:anil.ssrcp@gmail.com">anil.ssrcp@gmail.com</a></p>
+        </header>
+        <section>
+            <h2>Objective</h2>
+            <p>Sincerity, dedication & loyalty towards my work and organization...</p>
+        </section>
+        <section>
+            <h2>Personal Skills</h2>
+            <ul>
+                <li>Knowledge of contemporary hospital pharmacy...</li>
+                <li>Excellent Communication skills...</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Educational Qualifications</h2>
+            <table>
+                <tr><th>Qualification</th><th>Institute</th><th>Year</th><th>Aggregate</th></tr>
+                <tr><td>PhD</td><td>SJJT UNIVERSITY, RAJASTHAN</td><td>2023</td><td>Thesis Submitted</td></tr>
+                <tr><td>M. Pharm</td><td>Swamivivekananda College</td><td>2011-2013</td><td>80.06%</td></tr>
+            </table>
+        </section>
+        <section>
+            <h2>Work Experience</h2>
+            <p>Assistant Professor at Netaji Institute of Pharmaceutical Sciences...</p>
+        </section>
+    </div>
+</body>
+</html>
