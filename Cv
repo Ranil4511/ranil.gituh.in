@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Karnatakapu Anil Kumar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Karnatakapu Anil Kumar</h1>
+            <p><strong>Address:</strong> H No: 5-7-30, Plot no 53, B N Reddy Nagar, LB Nagar, Hyderabad</p>
+            <p><strong>Phone:</strong> 9703304511 | <strong>Email:</strong> anil.ssrcp@gmail.com</p>
+        </header>
+
+        <section class="section">
+            <h2>Objective</h2>
+            <p>Sincerity, dedication & loyalty towards my work and organization are my positive traits. I aim to exhibit my knowledge and skills to the best of my abilities, always prioritizing the organization’s interest.</p>
+        </section>
+
+        <section class="section">
+            <h2>Personal Skills</h2>
+            <ul>
+                <li>Knowledge of contemporary hospital pharmacy and distributive services.</li>
+                <li>Ability to interact constructively in a culturally diverse work environment.</li>
+                <li>Excellent communication skills and ability to deal diplomatically.</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Educational Qualifications</h2>
+            <ul>
+                <li><strong>PhD:</strong> SJJT University, Rajasthan (Thesis Submitted, June 2023)</li>
+                <li><strong>M. Pharm (Pharmaceutics):</strong> Swami Vivekananda College of Pharmaceutical Sciences, JNTU-H (2011-2013, 80.06%)</li>
+                <li><strong>B. Pharm:</strong> Smt Sarojini Rammulamma College of Pharmacy, Mahaboob Nagar (2004-2007, 62%)</li>
+                <li><strong>D. Pharm:</strong> KDR Govt Polytechnic, Wanaprathy, Mahaboob Nagar (2002-2004, 63%)</li>
+                <li><strong>Higher Secondary:</strong> Govt Jr College, Hanamkonda, Warangal (2000-2002, 65.5%)</li>
+                <li><strong>S.S.C. (X):</strong> ZPSS Mamnoor Camp, Warangal (1999-2000, 72%)</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Work Experience</h2>
+            <ul>
+                <li>Assistant Professor, Netaji Institute of Pharmaceutical Sciences, Nalgonda (2013 - 2019)</li>
+                <li>Assistant Professor, Samskruti College of Pharmacy, Medchal Malkajgiri (2019 - 2020)</li>
+                <li>Lecturer, GBN College of Pharmacy, Edulabad, Ghatkesar, Ranga Reddy (2 years)</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Technical & Personal Skills</h2>
+            <ul>
+                <li>Handling of exam branch work, PCI work, AICTE work & JNTUH work</li>
+                <li>Good communication skills</li>
+                <li>Hard-working and confident</li>
+                <li>Proficient in computer applications (MS Office, Windows
